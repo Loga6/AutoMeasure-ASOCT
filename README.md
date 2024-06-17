@@ -1,2 +1,2 @@
 # AutoMeasure-ASOCT
-the code will coming soon
+Code to be released soon
